@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(243, 174, 117);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
@@ -131,6 +131,11 @@ div.activities-right{
     margin: 0;
 }
 
+.h3 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
 .dishes{
     background-color: rgb(247, 222, 191);
     border: 2px solid rgb(0, 0, 0);
@@ -238,6 +243,10 @@ td{
     column-gap: 1em;
     text-align: left;
     overflow: auto;
+}
+
+.head-strong {
+    font-weight: bold;
 }
 
 .recipeA, .recipeB{
